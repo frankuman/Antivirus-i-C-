@@ -7,6 +7,12 @@ gcc -v
 2. Install sudo apt-get install build-essential gdb
 3. Install Cmake Tools on extension in Visual Studio Code
 4. Install all needed C++ extensions for Visual Studio Code
+5. Även om man följer alla stegen i länkarna
+så kan man fortfarande inte kompilera, man måste ändra json.launch
+filen till 
+
+"cwd": "${workspaceFolder}"
+"program": "${workspaceFolder}/AV",
 
 --To get shared file Ubuntu->Windows
 
