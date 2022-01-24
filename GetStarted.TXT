@@ -1,8 +1,19 @@
 https://code.visualstudio.com/docs/cpp/config-linux
 https://code.visualstudio.com/docs/cpp/cmake-linux
 
+--To get compiler
 1. Check gcc installed
 gcc -v
 2. Install sudo apt-get install build-essential gdb
 3. Install Cmake Tools on extension in Visual Studio Code
 4. Install all needed C++ extensions for Visual Studio Code
+
+--To get shared file Ubuntu->Windows
+
+1. Ändra adaptertyp i virtualbox till bridged
+2. Öppna ubuntu och skriv ip a, kolla så att ip-adressen är samma 
+som ditt lokala nätverk (mitt var 192.168.0.102, och windows 192.168.0.100)
+3. Gör en mapp i ubuntu, högerklicka och sätt på sharing.
+4. Gå till windows, högerklicka på This PC
+5. Välj add a network location
+6. Skriv \\ipaddr\filnamnpåubuntu
