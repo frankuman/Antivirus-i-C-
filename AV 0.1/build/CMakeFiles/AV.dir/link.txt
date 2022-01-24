@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAV.a  CMakeFiles/AV.dir/AV.cpp.o
+/usr/bin/ranlib libAV.a

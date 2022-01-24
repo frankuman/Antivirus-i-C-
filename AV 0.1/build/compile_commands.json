@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/olive/Desktop/project/AV/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/AV.dir/AV.cpp.o -c /home/olive/Desktop/project/AV/AV.cpp",
+  "file": "/home/olive/Desktop/project/AV/AV.cpp"
+}
+]
