@@ -1,3 +1,6 @@
+Only upload .cpp files (nothing else)
+
+
 https://code.visualstudio.com/docs/cpp/config-linux
 https://code.visualstudio.com/docs/cpp/cmake-linux
 
