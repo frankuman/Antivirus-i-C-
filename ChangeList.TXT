@@ -4,3 +4,6 @@
 - Created CMakeLists.txt
 - fixed launch.json bug
 - Added a todo list
+27/01
+- Made a buggy iterator and implemented dirent.h (for looking at directories)
+- Iterator is almost good, needs some finetuning
