@@ -21,3 +21,4 @@ Last thing to do: Logs
 02/02 AV_1.1
 - Added so program logs
 - clocked a running speed of 0.150
+- fixed makefile :)
