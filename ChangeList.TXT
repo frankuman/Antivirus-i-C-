@@ -30,3 +30,4 @@ path is first), to take in path to signatures if wanted
 be used
 3. if program is wrongly used, write out the help tag.
 4. More error messeges
+5. Name logfile dv1620log
