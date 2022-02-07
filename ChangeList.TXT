@@ -22,12 +22,12 @@ Last thing to do: Logs
 - Added so program logs
 - clocked a running speed of 0.150
 - fixed makefile :)
+07/02 AV_1.2
+- Added --help
+- Added -h for custom signatures
+- Added help if signature database isnt found or directory isnt
+found 
+
 
 To do: 
-1. We need to write -b as third argument (-f is second and 
-path is first), to take in path to signatures if wanted
-2. help tag. So if --help is a tag, write the commands that can
-be used
-3. if program is wrongly used, write out the help tag.
-4. More error messeges
 5. Name logfile dv1620log
