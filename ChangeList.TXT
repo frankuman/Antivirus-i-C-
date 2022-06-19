@@ -4,6 +4,21 @@
 - Created CMakeLists.txt
 - fixed launch.json bug
 - Added a todo list
-27/01
-- Made a buggy iterator and implemented dirent.h (for looking at directories)
+27/01 AV_0.1.2
+- Built a buggy iterator and implemented dirent.h (for looking at directories)
 - Iterator is almost good, needs some finetuning
+28/01 AV_0.2
+- Fixed the buggy iterator, it could be fixed more but it works
+- Made it so all files found from iterator are stored within a container
+- Built a function that converts the files to hexadec and puts them in a container
+- Built a function that finds signatures.db and puts them in a container
+31/01 AV_0.3 & 1.0
+- Made a compare function
+- Fixed file-hex function so it show full hex data
+- tried to use binary :S
+- Fixed so program can be used from terminal
+Last thing to do: Logs
+02/02 AV_1.1
+- Added so program logs
+- clocked a running speed of 0.150
+- fixed makefile :)
